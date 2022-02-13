@@ -1,5 +1,4 @@
-- 👋 Hi, I’m Erickson
-- 👀 I’m interested in ...
+- 👋 Hi, I’m Erickson..
 - 🌱 I’m currently learning  Python , HTML, Javascript and CSS
 - 📫 How to reach me: ericksonrodrigues13@gmail.com
 
