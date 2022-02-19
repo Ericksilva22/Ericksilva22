@@ -1,6 +1,5 @@
-- 👋 Hi, I’m Erickson..
-- 🌱 I’m currently learning  Python , HTML, Javascript and CSS
-- 📫 How to reach me: ericksonrodrigues13@gmail.com
+## Olá eu sou Erickson, estudante de Engenharia Elétrica e técnico em Elétrotecnia!
+:sunglasses::muscle::computer: Atualmente me aperfeiçoando nas linguagens: Python , HTML, Javascript and CSS!
 
 <div align="center">
   <a href="https://github.com/Ericksilva22">
