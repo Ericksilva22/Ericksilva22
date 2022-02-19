@@ -1,4 +1,4 @@
-## Olá eu sou Erickson, estudante de Engenharia Elétrica e técnico em Elétrotecnia!
+## Olá eu sou Erickson, estudante de Engenharia Elétrica e Técnico em Elétrotecnia!
 :sunglasses::muscle::computer: Atualmente me aperfeiçoando nas linguagens: Python , HTML, Javascript e CSS!
 
 <div align="center">
