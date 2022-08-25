@@ -1,5 +1,5 @@
-## Olá eu sou Erickson, estudante de Engenharia Elétrica e Técnico em Elétrotecnica!
-:sunglasses::muscle::computer: HTML | CSS | Javascript | Angular | Node
+## Olá eu sou Erickson, Engenheiro Eletricista e Técnico em Elétrotecnica!
+:sunglasses::muscle::computer: HTML | CSS | Javascript | React| Node
 
 <div align="center">
   <a href="https://github.com/Ericksilva22">
