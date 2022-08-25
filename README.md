@@ -1,5 +1,5 @@
 ## Olá eu sou Erickson, Engenheiro Eletricista e Técnico em Elétrotecnica!
-:sunglasses::muscle::computer: HTML | CSS | Javascript | React| Node
+:sunglasses::muscle::computer: Bora Codar!!
 
 <div align="center">
   <a href="https://github.com/Ericksilva22">
