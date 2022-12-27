@@ -1,5 +1,5 @@
-## Olá eu sou Erickson, Engenheiro Eletricista e Técnico em Elétrotecnica!
-Confira minhas ferramentas e linguagens mais utilizadas!! :sunglasses::muscle::computer: Bora Codar!!
+## Olá eu sou Erickson, Desenvolvedor Front-End!
+Atualmente cursando 3° período de ADS. Também Possuo formação em eletrotécnica e Engenharia Elétrica!!
 
 <div align="center">
   <a href="https://github.com/Ericksilva22">
