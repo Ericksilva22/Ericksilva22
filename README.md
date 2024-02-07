@@ -1,5 +1,5 @@
 ## Olá eu sou Erickson, Desenvolvedor Front-End!
-Atualmente cursando 3° período de ADS. Também Possuo formação em eletrotécnica e Engenharia Elétrica!!
+Formado em Engenharia Elétrica e Análise e Desenvolvimento de Sistemas!!
 
 <div align="center">
   <a href="https://github.com/Ericksilva22">
