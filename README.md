@@ -1,12 +1,6 @@
 ## Olá eu sou Erickson, Desenvolvedor Full stack!
 Formado em Engenharia Elétrica e Análise e Desenvolvimento de Sistemas!!
 
-<div align="center">
-  <a href="https://github.com/Ericksilva22">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Ericksilva22&show_icons=true&theme=blue&include_all_commits=true&count_private=true"/>
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ericksilva22&layout=compact&langs_count=7&theme=blue"/>
-</div>
-  
   <div style="display: inline_block"><br>
   <img align="center" alt="Erick-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Erick-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
